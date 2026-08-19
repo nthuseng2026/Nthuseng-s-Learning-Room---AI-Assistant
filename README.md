@@ -92,6 +92,7 @@ Generate:
 - Lovable AI
 - ChatGPT
 - GitHub
+- Supabse
 - HTML
 - CSS
 - JavaScript
